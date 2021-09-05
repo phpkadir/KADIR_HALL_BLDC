@@ -1,0 +1,7 @@
+hall.c:20:6:ToggleB1	0	static
+hall.c:23:9:ReadHallSensors	0	static
+hall.c:26:6:SetHallMode	0	static
+hall.c:29:6:TIM2_OC_SetPolarity	0	static
+hall.c:47:6:RunTimer2	8	static
+hall.c:60:6:HAL_TIM_IC_CaptureCallback	64	static
+hall.c:137:6:CalibHall	16	static

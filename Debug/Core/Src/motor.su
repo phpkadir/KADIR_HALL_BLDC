@@ -1,0 +1,9 @@
+motor.c:11:6:ToggleB0	4	static
+motor.c:14:6:RunTimer1	8	static
+motor.c:23:5:Constrain2400	16	static
+motor.c:25:5:FieldGetPhase	4	static
+motor.c:27:5:RotorGetPhase	4	static
+motor.c:29:6:RotorSetPhaseSpeed	16	static
+motor.c:32:6:OnTimer1Top	16	static
+motor.c:70:6:HAL_TIM_PeriodElapsedCallback	16	static
+motor.c:80:6:RunDrive	16	static
